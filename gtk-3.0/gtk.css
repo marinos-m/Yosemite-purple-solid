@@ -657,7 +657,7 @@ button.suggested-action.flat, button.suggested-action.sidebar-button, button.sug
 button.suggested-action:hover {
   background-clip: border-box;
   color: white;
-  background-color: #ff464b;
+  background-color: #ff646b;
   background-image: none;
   border-color: #CA3D56;
   box-shadow: 0px 1px 1px 0px rgba(19, 71, 132, 0.06), 0px 1px 2px 0px rgba(19, 71, 132, 0.02);

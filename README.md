@@ -1,3 +1,5 @@
 # Yosemite-purple-solid
 
-just a yosemite theme with some modified colors
+I am not the creator of this theme. I just changed the colors of an existing yosemite gnome theme and thought I'd share.
+It's still a work in progress so feel free to point out any mistakes.
+running on gnome 3.28.1

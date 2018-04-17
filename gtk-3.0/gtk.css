@@ -4042,7 +4042,7 @@ row.activatable:selected:active, .budgie-menu button:selected:active {
 }
 
 row.activatable:selected.has-open-popup, .budgie-menu button:selected.has-open-popup, row.activatable:selected:hover, .budgie-menu button:selected:hover {
-  background-color: #0058e6;
+  background-color: #c83143;
 }
 
 .app-notification {
@@ -5595,7 +5595,7 @@ button.documents-favorite:active:hover {
 
 .documents-entry-tag:hover, .photos-entry-tag:hover {
   color: #ffffff;
-  background: #146fff;
+  background: #c83143;
 }
 
 .documents-entry-tag:active, .photos-entry-tag:active {

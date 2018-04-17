@@ -112,8 +112,8 @@ textview border {
 
 rubberband, flowbox rubberband, treeview.view rubberband, .content-view rubberband,
 .rubberband {
-  border: 1px solid #004ecc;
-  background-color: #ff464b;
+  border: 1px solid #c83143;
+  background-color: rgba(200,49,67, 0.55);
 }
 
 flowbox flowboxchild {
@@ -3328,16 +3328,16 @@ infobar scale trough:disabled {
 
 scale highlight {
   border-radius: 5px;
-  background-color: #c83143;
+  background-color: rgba(200,49,67, 0.5);
 }
 
 scale highlight:disabled {
-  background-color: rgba(0, 98, 255, 0.55);
+  background-color: rgba(220,49,67, 0.5);
 }
 
 scale fill {
   border-radius: 5px;
-  background-color: rgba(0, 98, 255, 0.5);
+  background-color: rgba(220,49,67, 0.5);
 }
 
 scale fill:disabled {
